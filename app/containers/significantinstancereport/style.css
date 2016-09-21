@@ -1,0 +1,36 @@
+.width215
+{
+  width:215px;
+}
+
+.width155
+{
+  width:155px;
+  margin-left:12px
+}
+
+.height140
+{
+  height:140px !important;
+}
+.event_top.innersection{
+  padding: 10px 0 10px 60px;
+}
+.significant-title{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.box-content{
+  overflow: auto;
+}
+.right-menu .topli{
+  text-align: center;
+  padding-top: 10px;
+}
+.right-menu .topli span{
+  color:white;
+  font-size: 26px;
+}
+.right-menu .topli p{
+  font-size: 17px;
+}

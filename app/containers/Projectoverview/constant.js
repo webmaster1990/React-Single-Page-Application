@@ -1,0 +1,4 @@
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const EDIT_PROJECT = 'EDIT_PROJECT';
+export const DELETE_FIELD = 'DELETE_FIELD';
+export const LOAD_PROJECT_BY_ID = 'LOAD_PROJECT_BY_ID';

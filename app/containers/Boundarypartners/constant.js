@@ -1,0 +1,2 @@
+export const DELETE_PARTNER = 'DELETE_PARTNER';
+export const LOAD_PARTNERS = 'LOAD_PARTNERS';

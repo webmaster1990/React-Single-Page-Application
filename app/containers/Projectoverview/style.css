@@ -1,0 +1,9 @@
+.main-container{
+	height: 100%;
+}
+.Editablediv{
+	display: inline-block;
+}
+a{
+  cursor: pointer;
+}
